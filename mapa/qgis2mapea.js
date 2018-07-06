@@ -1,4 +1,4 @@
-var proxy = false
+var proxy = true
 var layerName_lin = 'Vías ciclistas (OMS 06/07/08)'
 var fillColor_lin = '#ff7f00'
 var strokeColor_lin = 'blue'
